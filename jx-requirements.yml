@@ -20,7 +20,7 @@ spec:
   - key: staging
   - key: production
   ingress:
-    domain: "svrajasekar.net""
+    domain: svrajasekar.net
     externalDNS: false
     namespaceSubDomain: -jx.
     tls:
